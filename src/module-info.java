@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dnes
+ *
+ */
+interface CSITSwing {
+}
